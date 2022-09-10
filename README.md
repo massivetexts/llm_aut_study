@@ -1,7 +1,11 @@
 # LLM AUT Study
 Materials for "Beyond Semantic Distance: Automated Scoring of Divergent Thinking Greatly Improves with Large Language Models"
 
-Organisciak, P., Acar, S., Dumas, D., Berthiaume, K., (2022).  Beyond Semantic Distance: Automated Scoring of Divergent Thinking Greatly Improves with Large Language Models. Submitted for publication.
+Organisciak, P., Acar, S., Dumas, D., Berthiaume, K., (2022).  Beyond Semantic Distance: Automated Scoring of Divergent Thinking Greatly Improves with Large Language Models. Submitted for publication. [Pre-print](https://www.researchgate.net/publication/363456838_Beyond_Semantic_Distance_Automated_Scoring_of_Divergent_Thinking_Greatly_Improves_with_Large_Language_Models)
+
+## Running
+
+These results can run in your browser. See code in the *notebooks* folder. You can click 'Open In Colab' to run it in Google Colaboratory. I'll be cleaning code for sharing throughout Sept and Oct 2022.
 
 ## Abstract
 

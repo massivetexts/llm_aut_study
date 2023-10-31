@@ -7,7 +7,7 @@ Organisciak, P., Acar, S., Dumas, D., Berthiaume, K., (2022).  Beyond Semantic D
 
 These results can run in your browser. See code in the *notebooks* folder. You can click 'Open In Colab' to run it in Google Colaboratory. I'll be cleaning code for sharing throughout Sept and Oct 2022.
 
-**Want to just try the scoring system? Go to <https://github.com/massivetexts/llm_aut_study>**
+**Want to just try the scoring system? Go to <https://openscoring.du.edu/scoringllm>**
 ## Abstract
 
 Automated scoring for divergent thinking seeks to overcome a key obstacle to creativity measurement: the effort, cost, and reliability of scoring open-ended tests. For a common test of divergent thinking, the Alternate Uses Task (AUT), the primary automated approach casts the problem as a semantic distance between a prompt and the resulting idea in a text model.
